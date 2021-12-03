@@ -3,10 +3,11 @@
 
 ---
 
+
 ### About me
 * Cada vez me gusta mas programar en Android
 * Cuanto mas aprenda, mejor (aunque necesite mi tiepo para aclimatarme)
-* Actualmente estoy aprendiendo **Desarrollo de Aplicaciones Multiplataforma** en el instituto _IES Luis Vives_
+* Actualmente estoy aprendiendo **Desarrollo de Aplicaciones Multiplataforma** en el instituto _IES Luis Vives_ 
 * Actualmente me decanto mas por el frontend, pero el backend no me disgusta
 * No puedo dejar cosas a medias, por lo que pocas veces dejo nada a medias
 * Me gusta mucho el anime 
