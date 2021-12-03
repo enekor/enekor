@@ -1,6 +1,7 @@
-### Hi there 👋
+### ![nagatoro](https://user-images.githubusercontent.com/24699778/144655707-1ce258ce-0e7f-4ab1-bf00-696f024e4fdc.gif)
 
-<!--
+
+
 **enekor/enekor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
