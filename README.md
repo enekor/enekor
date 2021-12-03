@@ -22,7 +22,7 @@
 
 ---
 
-<img align="left" src="https://thumbs.gfycat.com/WeirdDeliciousAfricanwilddog-max-1mb.gif" height="450"/>
+<img align="left" src="https://thumbs.gfycat.com/WeirdDeliciousAfricanwilddog.webp" height="450"/>
 <h4 align="center">Lenguajes con lo que he trabajado</h4>
 <div align="center">
   <img src="https://algodelinux.com/wp-content/uploads/2020/03/java-icon.png" height=45/>
