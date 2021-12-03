@@ -22,6 +22,7 @@
 
 ---
 
+<img align="left" src="https://thumbs.gfycat.com/WeirdDeliciousAfricanwilddog-max-1mb.gif" height="450"/>
 <h4 align="center">Lenguajes con lo que he trabajado</h4>
 <div align="center">
   <img src="https://algodelinux.com/wp-content/uploads/2020/03/java-icon.png" height=45/>
@@ -51,3 +52,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height=45/>
   <img src="https://www.h2database.com/html/images/h2-logo-2.png" height=45/>
 </div>
+
