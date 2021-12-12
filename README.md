@@ -13,7 +13,7 @@
 * Me gusta mucho el anime 
 * Mi saga fovorita de juegos es el Mario Kart, y despues Pokemon 🎮
 * Amante de los gatos 🐈‍⬛
-* Se me puede llamar Neko o gato electronico (solo [Loli](https://github.com/idliketobealoli))
+* Se me puede llamar Neko o electrogato (solo [Loli](https://github.com/idliketobealoli))
 
 ---
 
