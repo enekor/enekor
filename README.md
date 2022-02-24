@@ -93,4 +93,4 @@
 * [Teco](https://github.com/sps169)
 * [Fede](https://github.com/FedericoTB)
 * [Jaime](https://github.com/jaimesalcedo1)
-- [Ivan](https://github.com/IvanAzagraTroya)
+* [Ivan](https://github.com/IvanAzagraTroya)
