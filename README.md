@@ -80,3 +80,16 @@
   </a> 
 </p>
 
+---
+
+## Compañeros de estudio
+
+* [Loli](https://github.com/idliketobealoli)
+* [Laso](https://github.com/alexlaso)
+* [Saul](https://github.com/saulmella12)
+* [Mei](https://github.com/emilio2403)
+* [Dylan](https://github.com/DyLaNHurtado)
+* [Mario](https://github.com/Mario999X)
+* [Teco](github.com/sps169)
+* [Fede](https://github.com/FedericoTB)
+* [Jaime](https://github.com/jaimesalcedo1)
