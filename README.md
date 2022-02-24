@@ -90,6 +90,6 @@
 * [Mei](https://github.com/emilio2403)
 * [Dylan](https://github.com/DyLaNHurtado)
 * [Mario](https://github.com/Mario999X)
-* [Teco](github.com/sps169)
+* [Teco](https://github.com/sps169)
 * [Fede](https://github.com/FedericoTB)
 * [Jaime](https://github.com/jaimesalcedo1)
