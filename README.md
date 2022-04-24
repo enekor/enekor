@@ -31,7 +31,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height=45/>
   <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" height=45/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height=45/>
-  <img src="https://iconape.com/wp-content/png_logo_vector/flutter.png" height=45/>
   <img src="https://cdn-icons-png.flaticon.com/512/2306/2306109.png" height=45/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" height=45/>
   <img src="http://cj.lskyf.com/pro/images/elifhakcjgalahccnjkneoccemfahfoa/logo.png" height=45/>
