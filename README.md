@@ -5,15 +5,12 @@
 
 
 ### About me
-* Cada vez me gusta mas programar en Android
-* Cuanto mas aprenda, mejor (aunque necesite mi tiepo para aclimatarme)
-* Actualmente estoy aprendiendo **Desarrollo de Aplicaciones Multiplataforma** en el instituto _IES Luis Vives_ 
+* Me gusta mucho programar en Android
+* Cuanto mas aprenda, mejor
+* Desarrollador de aplicaciones multiplataforma por el instituto _IES Luis Vives_ 
 * Actualmente me decanto mas por el frontend, pero el backend no me disgusta
 * No puedo dejar cosas a medias, por lo que pocas veces dejo nada a medias
-* Me gusta mucho el anime 
-* Mi saga fovorita de juegos es el Mario Kart, y despues Pokemon 🎮
 * Amante de los gatos 🐈‍⬛
-* Se me puede llamar Neko o electrogato (solo [Loli](https://github.com/idliketobealoli))
 
 ---
 
