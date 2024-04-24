@@ -1,90 +1,26 @@
-<h3 align="center"><b>Buenas, soy Eneko</b></h3>
-<i>En este repositorio, ahora mismo, subo los trabajos de clase y personales</i>
-
----
+# 💫 About Me:
+Me gustan los retos, siempre y cuando los vea posibles<br>En constante aprendizaje y con ganas de ello<br>Amante de los gatos 🐈‍⬛<br>Desarrollador de aplicaciones multiplataforma por el instituto IES Luis Vives<br>Actualmente trabajo para backend, pero me gusta bastante el frontend, sobre todo el orientado a android<br>No puedo dejar cosas a medias, por lo que pocas veces dejo algo sin terminar<br>Dije ya que me gustan los gatos?<br>
 
 
-### About me
-* Me gusta mucho programar en Android
-* Cuanto mas aprenda, mejor
-* Desarrollador de aplicaciones multiplataforma por el instituto _IES Luis Vives_ 
-* Actualmente me decanto mas por el frontend, pero el backend no me disgusta
-* No puedo dejar cosas a medias, por lo que pocas veces dejo nada a medias
-* Amante de los gatos 🐈‍⬛
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eneko-rebollo-411122143) 
 
----
-
-### Contactos
-* Discord -> n3k0chan#4577
-* Gmail -> enekorebollo@gmail.com
-
----
-
-<img align="left" src="https://thumbs.gfycat.com/WeirdDeliciousAfricanwilddog.webp" height="420"/> <!-- gif -->
-<h4 align="center">Lenguajes con lo que he trabajado</h4>
-<div align="center">
-  <img src="https://algodelinux.com/wp-content/uploads/2020/03/java-icon.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height=45/>
-  <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height=45/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2306/2306109.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/2048px-JSON_vector_logo.svg.png" height=45/>
-  <img src="http://cj.lskyf.com/pro/images/elifhakcjgalahccnjkneoccemfahfoa/logo.png" height=45/>
-  <img src="https://imgs.search.brave.com/Ps6sztmc1r59rzrHd3QHkexV4Xiufc_tCQfFJ2ROwT8/rs:fit:270:270:1/g:ce/aHR0cHM6Ly9hcHBz/dGltZXMuaW4vd3At/Y29udGVudC91cGxv/YWRzLzIwMTUvMDUv/ZGFydF9pY29uLnBu/Zw" height=45/>
-  <img src="https://imgs.search.brave.com/V8fy9Y1K8jR5xuO_gWKFTXdUsHNfZ1tgEMXM8XiuOqU/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9pY29u/YXBlLmNvbS93cC1j/b250ZW50L3BuZ19s/b2dvX3ZlY3Rvci9j/LnBuZw" height=45/>
-  
-</div>
-
-<h4 align="center">Tecnologias con las que he trabajado</h4>
-<div align="center">
-  <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" height=45/>
-  <img src="https://distreau.com/github.svg" height=45/>
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" height=45/>
-  <img src="https://www.armadilloamarillo.com/wp-content/uploads/course-image.png" height=45/>
-  <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" height=45/>
-  <img src="https://www.logolynx.com/images/logolynx/s_10/10792bb85f5b8010a8d831e828878666.png" height=45/>
-  <img src="https://imgs.search.brave.com/ao9DOZugvJ9WYnfBS7Sjm6yM6O2hEIQjQ_2xVfK_Q7E/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLTEubWVk/aXVtLmNvbS9tYXgv/MTIwMC8xKjUtYW9L/OElCbVh2ZTV3aEJR/TTkwR0EucG5n" height=45/>
-  <img src="https://imgs.search.brave.com/pgLgMSNCDY2ZHgWyvLrWVDm1pBa3FTNm5PDhODLbCSA/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9iZXRh/LnNtYXJ0ZXIuY29k/ZXMvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMDQvMTUtLm5l/dF8ucG5n" height=45/>
-  <img src="https://imgs.search.brave.com/Z-XprWzadEgrKzk-9RJYys9D6IrZcvGCsIC2FthOu5s/rs:fit:495:400:1/g:ce/aHR0cHM6Ly90YWJy/aXMuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA2L2pl/dHBhY2stY29tcG9z/ZS1pY29uX1JHQi00/OTV4NDAwLnBuZw" height=45/>
-</div>
-
-<h4 align="center">Entornos de trabajo que he usado</h4>
-<div align="center">
-  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height=45/>
-  <img src="https://imgs.search.brave.com/6NRnjcmRPIMP8SXTREgDbeQTyzknRsJAKolZag59qKo/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzEyMDAvMSo2/RGh1MUg0dDAyOGxP/R2JhWnV5UkN3LnBu/Zw" height=45/>
- 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" height=45/>
-  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height=45/>
-  <img src="https://imgs.search.brave.com/OW6rSyH7XSsnY5OOjRGFlCL9msh039Z8QfTAspmB0ZE/rs:fit:1200:1200:1/g:ce/aHR0cDovL2ljb24t/bGlicmFyeS5jb20v/aW1hZ2VzL3Zpc3Vh/bC1zdHVkaW8taWNv/bi1wbmcvdmlzdWFs/LXN0dWRpby1pY29u/LXBuZy0yNS5qcGc" height=45/>
-  <img src="https://icons.iconarchive.com/icons/blackvariant/button-ui-app-pack-two/1024/Eclipse-icon.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/1024px-Geany_logo.svg.png" height=45/>
-  <img src="https://webintegral.com.co/wp-content/uploads/2018/05/postman-icon.png" height=45/>
-</div>
-
-<h4 align="center">Bases de datos usadas</h4>
-<div align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" height=45/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height=45/>
-  <img src="https://www.h2database.com/html/images/h2-logo-2.png" height=45/>
-  <img src="https://img.icons8.com/color/480/mongodb.png" height=45/>
-</div>
-
----
-
-<h2 align="center">Mi Actividad</h2>
-
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=plastic&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=plastic&logo=java&logoColor=white)
+# 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=enekor&show_icons=true&theme=vue">
-    <img src="https://github-readme-stats.vercel.app/api?username=enekor&show_icons=true&theme=vue" height="175" alt="enekor"/>
-  </a> 
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=enekor&theme=vue&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enekor&theme=vue&layout=compact" height="175"/>
-  </a> 
+  <image src="https://github-readme-stats.vercel.app/api?username=enekor&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/>
+  <image src="https://github-readme-streak-stats.herokuapp.com/?user=enekor&theme=midnight-purple&hide_border=true"/>
+  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=enekor&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=enekor&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=enekor&icon=5&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Compañeros de estudio
 
