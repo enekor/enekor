@@ -1,5 +1,7 @@
 # 💫 About Me:
 Me gustan los retos, siempre y cuando los vea posibles<br>En constante aprendizaje y con ganas de ello<br>Amante de los gatos 🐈‍⬛<br>Desarrollador de aplicaciones multiplataforma por el instituto IES Luis Vives<br>Actualmente trabajo para backend, pero me gusta bastante el frontend, sobre todo el orientado a android<br>No puedo dejar cosas a medias, por lo que pocas veces dejo algo sin terminar<br>Dije ya que me gustan los gatos?<br>
+<br>
+[¡Tambien puedes visitar mi portfolio!](https://portfolioeneko-enekors-projects.vercel.app/)
 
 
 ## 🌐 Socials:
